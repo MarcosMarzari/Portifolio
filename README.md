@@ -5,9 +5,9 @@ Portfólio do Desenvolvedor
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Ícones
+##  Ícones
 
 :packcage: nova funcionalidade
 :up: atualização
-:batle: correção de bug
+:beatle: correção de bug
 :checkred_flag: release
