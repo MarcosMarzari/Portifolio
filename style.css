@@ -64,7 +64,7 @@
     background-color: #1487CC;
     color: #fff;
     font-family: var(--font-action);
-    opacity: 0;   
+    opacity: 0;    
 }
 
 .hamburguer span::before{
