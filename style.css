@@ -534,5 +534,5 @@ animation: moveBanner 1s 0.9s forwards;
     font-family: var(--font-primary);
     font-size: 3rem;
     font-weight: lighter;
-    box-shadow: 0, 0.1rem 0.,3rem rgba(0, 0, 0, 0.5);
+    box-shadow: 0, 0.1rem 0.,3rem rgba(0, 0, 0, 0.5);    
 }
